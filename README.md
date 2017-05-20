@@ -3,7 +3,9 @@
 
 part-1 ]   
 1.Install arduino ide and ROS on the Raspi.
+
 2.Now unzip the ros.zip and add the ros_lib in arduino libraries.
+
 3.Extract the rosserial.zip inside workspace/src (say catkin_ws/src) .
 
 part-2 ]
